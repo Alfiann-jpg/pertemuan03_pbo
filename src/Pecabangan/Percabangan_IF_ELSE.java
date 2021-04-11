@@ -1,4 +1,4 @@
-package Percabangan;
+package Pecabangan;
 
 
 public class Percabangan_IF_ELSE {
